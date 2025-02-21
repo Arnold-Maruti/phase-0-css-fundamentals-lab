@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+img {
+  align-content: center;
+
+}
+nav a {
+  padding: 10px;
+  background-color: grey;
+
+}
+img{
+  font-size: medium;
+  text-align: center;
+}
+#featured-property {
+  width: 800px;
+  text-align: center;
+}
+
